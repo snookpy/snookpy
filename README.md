@@ -20,8 +20,9 @@ Most of my backend work supports full application layers alongside frontend deve
 I’ve built full postback MVC apps as well as modern frontend applications. For modern frontend projects, I usually include unit tests. since today’s frontend frameworks are easy to start but hard to maintain.
 
 - Pure JavaScript, jQuery
-- React.js
+- React.js, React Native
 - Angular
+- Flutter
 - TypeScript
 
 ### Database
