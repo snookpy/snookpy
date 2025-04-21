@@ -1,6 +1,9 @@
 # Hi, I am Nook 👋
 I’m a full-stack developer I can do just about anything, like a duck 🐣
-I have experience in researching and developing backend applications such as microservices, web service APIs, cloud computing, and CI/CD. On the frontend, I’ve worked with full postback websites (MVC), modern frameworks like React.js and Angular, and mobile frontends using React Native and Flutter.
+
+I have experience in researching and developing backend applications such as microservices, web service APIs, cloud computing, and CI/CD. 
+
+On the frontend, I’ve worked with full postback websites (MVC), modern frameworks like React.js and Angular, and mobile frontends using React Native and Flutter.
 
 ## 🌐 Socials 
 Contact me via
